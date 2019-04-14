@@ -18,4 +18,3 @@ print(results)
 
 # https://stackabuse.com/linear-regression-in-python-with-scikit-learn/
 # HELPED ME TO PREAPER AND TRANSFORM ALL DATA TO AN SUITED SHAPE!!!!
-
